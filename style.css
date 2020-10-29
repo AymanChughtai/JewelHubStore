@@ -310,7 +310,7 @@ h1 {
 
 header {
     background-position: center;
-    background-image: url(./assets/header-image.jpg);
+    background-image: url(./Assets/header-image.jpg);
     height: 100vh;
     background-size: cover;
 }
@@ -432,7 +432,7 @@ header ul li a:focus {
 
 article {
     background-position: center;
-    background-image: url(./assets/banner-image.jpg);
+    background-image: url(./Assets/banner-image.jpg);
     height: 70vh;
     background-size: cover;
 }
@@ -665,7 +665,7 @@ input[placeholder] {
 
     article {
         background-position: center;
-        background-image: url(./assets/banner-image.jpg);
+        background-image: url(./Assets/banner-image.jpg);
         height: 85vh;
         background-size: cover;
     }
